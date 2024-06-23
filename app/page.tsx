@@ -11,7 +11,6 @@ export default function Home() {
         <main
             className="relative bg-black-100 flex justify-center items-center flex-col overflow-clip mx-auto sm:px-10 px-5">
             <div className="max-w-7xl w-full">
-                // https://www.youtube.com/watch?v=FTH6Dn3AyIQ&list=PL6QREj8te1P7rEwj_IzsoLzQ-FBbZ6lqP&index=7
                 <FloatingNav navItems={navItems}/>
                 <Hero/>
                 <Grid/>
